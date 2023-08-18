@@ -4,7 +4,7 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
 
-# This is a random comm
+# This is a random comment
 
 app = FastAPI(title="Predicting Wine Class with batching")
 
